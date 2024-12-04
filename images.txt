@@ -1,3 +1,4 @@
 nginx
 jenkins/jenkins
 mariadb
+ubuntu
