@@ -2,3 +2,4 @@ nginx
 jenkins/jenkins
 mariadb
 ubuntu
+centos
