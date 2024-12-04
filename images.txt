@@ -3,3 +3,9 @@ jenkins/jenkins
 mariadb
 ubuntu
 centos
+mysql
+memcached
+redis
+python
+mongo
+rabbitmq
